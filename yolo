@@ -1,6 +1,0 @@
-echo "# Optimisattion-de-la-consommation-de-l-nergie" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Ewan178/Optimisattion-de-la-consommation-de-l-nergie.git
-git push -u origin master
